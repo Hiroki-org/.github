@@ -1,12 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=180&section=header&text=Hiroki.org&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Personal%20Dev%20Org%20by%20%40is0692vs&descAlignY=58&descSize=18" width="100%" />
 
-**Here are some ideas to get you started:**
+[![GitHub followers](https://img.shields.io/github/followers/is0692vs?label=Follow%20%40is0692vs&style=for-the-badge&color=6D5BBA&logoColor=white)](https://github.com/is0692vs)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/Hiroki-org&label=Repos&query=public_repos&color=8D58BF&style=for-the-badge)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+小さく作って、素早く動かす。個人開発とちょっとした実験置き場です 🛠️
+
+</div>
+
+## 🔭 What's here
+
+| プロジェクト | 概要 |
+| --- | --- |
+| 🧩 [**jules-extension**](https://github.com/Hiroki-org/jules-extension) | Google Jules API 用の VS Code 拡張機能 |
+| 📚 [**OpenShelf**](https://github.com/Hiroki-org/OpenShelf) | 論文・スライド・データセットを公開する研究アーカイブ (Next.js / Hono / Cloudflare Workers) |
+| 🎧 [**Audicle**](https://github.com/Hiroki-org/Audicle) | 記事を音声で楽しむ Audio + Article プロジェクト |
+| 📝 [**paper-tools**](https://github.com/Hiroki-org/paper-tools) | 論文作業を効率化するツール群 |
+
+<div align="center">
+
+<a href="https://github.com/Hiroki-org/jules-extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-org&repo=jules-extension&theme=radical&hide_border=true" height="150" /></a>
+<a href="https://github.com/Hiroki-org/OpenShelf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-org&repo=OpenShelf&theme=radical&hide_border=true" height="150" /></a>
+
+</div>
+
+## 🧰 Tech stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+
+</div>
+
+## 🙌 Contributing
+
+Issue や PR はいつでも歓迎です。気になったリポジトリがあれば、気軽に覗いてみてください。
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8D58BF,100:6D5BBA&height=100&section=footer" width="100%" />
+
+</div>

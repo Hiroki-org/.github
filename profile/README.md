@@ -11,17 +11,13 @@
 
 ## 🔭 What's here
 
-| プロジェクト | 概要 |
-| --- | --- |
-| 🧩 [**jules-extension**](https://github.com/Hiroki-org/jules-extension) | Google Jules API 用の VS Code 拡張機能 |
-| 📚 [**OpenShelf**](https://github.com/Hiroki-org/OpenShelf) | 論文・スライド・データセットを公開する研究アーカイブ (Next.js / Hono / Cloudflare Workers) |
-| 🎧 [**Audicle**](https://github.com/Hiroki-org/Audicle) | 記事を音声で楽しむ Audio + Article プロジェクト |
-| 📝 [**paper-tools**](https://github.com/Hiroki-org/paper-tools) | 論文作業を効率化するツール群 |
-
 <div align="center">
 
 <a href="https://github.com/Hiroki-org/jules-extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-org&repo=jules-extension&theme=radical&hide_border=true" height="150" /></a>
 <a href="https://github.com/Hiroki-org/OpenShelf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-org&repo=OpenShelf&theme=radical&hide_border=true" height="150" /></a>
+
+<a href="https://github.com/Hiroki-org/Audicle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-org&repo=Audicle&theme=radical&hide_border=true" height="150" /></a>
+<a href="https://github.com/Hiroki-org/paper-tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-org&repo=paper-tools&theme=radical&hide_border=true" height="150" /></a>
 
 </div>
 

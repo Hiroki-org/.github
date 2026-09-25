@@ -11,15 +11,24 @@
 
 ## 🔭 What's here
 
-<div align="center">
-
-<a href="https://github.com/Hiroki-org/jules-extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-org&repo=jules-extension&theme=radical&hide_border=true" height="150" /></a>
-<a href="https://github.com/Hiroki-org/OpenShelf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-org&repo=OpenShelf&theme=radical&hide_border=true" height="150" /></a>
-
-<a href="https://github.com/Hiroki-org/Audicle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-org&repo=Audicle&theme=radical&hide_border=true" height="150" /></a>
-<a href="https://github.com/Hiroki-org/paper-tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-org&repo=paper-tools&theme=radical&hide_border=true" height="150" /></a>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hiroki-org/jules-extension"><img src="https://opengraph.githubassets.com/1/Hiroki-org/jules-extension" width="100%" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hiroki-org/OpenShelf"><img src="https://opengraph.githubassets.com/1/Hiroki-org/OpenShelf" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hiroki-org/Audicle"><img src="https://opengraph.githubassets.com/1/Hiroki-org/Audicle" width="100%" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hiroki-org/paper-tools"><img src="https://opengraph.githubassets.com/1/Hiroki-org/paper-tools" width="100%" /></a>
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Tech stack
 
